@@ -45,7 +45,7 @@ git add README.md
 git commit
 ```
 
-### Wijzigingen naar de rmote sturen
+### Wijzigingen naar de remote sturen
 
 ```bash
 git push
