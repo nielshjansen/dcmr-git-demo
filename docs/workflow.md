@@ -69,7 +69,7 @@ Oplossen van door de merge ontstane problemen in je nieuwe branch
 
 Met het maken van een Pull request verzoek je de eigenaar van het project om je wijzigingen door te voeren op de main branch
 
-## Merge in main
+## Merge in de main branch
 
 De eigenaar van het project voert de merge door. Vanaf dit moment zijn jouw wijzigingen in de main branch verwerkt.
 
