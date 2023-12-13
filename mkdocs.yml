@@ -4,6 +4,8 @@ repo_url: https://github.com/nielshjansen/dcmr-git-demo
 
 theme:
   name: material
+  logo: images/logo_dcmr.png
+  favicon: images/favicon.ico
 
 nav:
   - 'index.md'
