@@ -1,1 +1,9 @@
-site_name: My Docs
+site_name: DCMR Git Demo
+
+repo_url: https://github.com/nielshjansen/dcmr-git-demo
+
+theme:
+  name: material
+
+nav:
+  - 'index.md'
