@@ -4,6 +4,18 @@ repo_url: https://github.com/nielshjansen/dcmr-git-demo
 
 theme:
   name: material
+  logo: images/logo_dcmr.png
+  favicon: images/favicon.ico
 
 nav:
   - 'index.md'
+  - 'voorstellen.md'
+  - 'wat-is-git.md'
+  - 'waarom-git-gebruiken.md'
+  - 'hoe-werkt-git.md'
+  - 'symantic-versioning.md'
+  - 'repository-layout.md'
+  - 'workflow.md'
+  - 'live-demo.md'
+  - 'do-and-dont.md'
+  - 'naslag-git-commandos.md'
